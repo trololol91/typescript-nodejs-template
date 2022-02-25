@@ -8,10 +8,10 @@ This works on VSCode.
 
 1. Clone this repository
 1. Make sure you install the ESLint plugin in VSCode
-    1. [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+    1. [Eslint Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 1. In Eslint extension setting enable the following
-    - Eslint: Always Show Status
-    - Eslint > Code Actions: show Documentation
-    - Eslint: Enable
-    - Eslint > Format: Enable
-    - Eslint > Lint Taks: Enable
+    - `Eslint: Always Show Status`
+    - `Eslint > Code Actions: show Documentation`
+    - `Eslint: Enable`
+    - `Eslint > Format: Enable`
+    - `Eslint > Lint Taks: Enable`
