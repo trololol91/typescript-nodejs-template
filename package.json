@@ -1,0 +1,26 @@
+{
+  "name": "typescript-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node -r tsconfig-paths/register src/stockChecker.ts",
+    "lint:eslint": "eslint --quiet --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "4.14.178",
+    "@typescript-eslint/eslint-plugin": "5.12.1",
+    "@typescript-eslint/parser": "5.12.1",
+    "eslint": "8.9.0",
+    "eslint-config-prettier": "8.4.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "lodash": "4.17.21",
+    "prettier": "2.5.1",
+    "prettier-eslint": "13.0.0",
+    "ts-node": "10.5.0",
+    "tsconfig-paths": "3.12.0",
+    "typescript": "4.5.5"
+  }
+}
