@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node -r tsconfig-paths/register src/stockChecker.ts",
+    "start": "ts-node -r tsconfig-paths/register src/sample.ts",
     "lint:eslint": "eslint --quiet --fix"
   },
   "author": "",
