@@ -3,6 +3,7 @@
     "eslint.format.enable": true,
     "eslint.lintTask.enable": true,
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
+        "source.fixAll": true
     },
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
 }
